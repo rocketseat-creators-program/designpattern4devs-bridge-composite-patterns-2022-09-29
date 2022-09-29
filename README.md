@@ -16,6 +16,8 @@ Diagramas do Composite:
 * [Diagrama case File e Folder](https://lucid.app/lucidchart/ecaf51f5-a6e5-4e35-9249-1900bd93bf4d/edit?viewport_loc=-457%2C-200%2C2216%2C1161%2CHWEp-vi-RSFO&invitationId=inv_6fb24f4a-0fbd-4542-908d-87756c0fe3c9#)
 * [Diagrama do Java Swing](https://lucid.app/lucidchart/86aa93a5-f50b-422b-aa1d-068920dbe812/edit?viewport_loc=-371%2C-79%2C2216%2C1161%2CHWEp-vi-RSFO&invitationId=inv_6228279d-cae6-489b-8e67-4960cd0fb3ef#)
 
+* [Slides](https://docs.google.com/presentation/d/1nfu9HtVkMNjhSD0DyjFpNkCYafGyMnFahyGQkAK4FGA/edit?usp=sharing)
+
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
 | :-: |
